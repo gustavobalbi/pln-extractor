@@ -14,7 +14,7 @@ and automatic topic extraction using named entities and frequent keywords.
 - Segmentação de texto por similaridade semântica entre sentenças  
 - Extração de tópicos com entidades nomeadas (NER) e palavras-chave relevantes  
 - Processamento de textos em português  
-
+---
 - Text segmentation based on semantic similarity between sentences
 - Topic extraction using named entities (NER) and relevant keywords
 - Processing of texts in Portuguese
